@@ -1,0 +1,17 @@
+[1.083s] Invoking command in '/home/ljk/YDS_ws/build/rtk_to_local': CONDA_PROMPT_MODIFIER=(base) PYTHONPATH=/home/ljk/YDS_ws/build/rtk_to_local/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ljk/YDS_ws/install/rtk_to_local/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/ljk/YDS_ws/build/rtk_to_local/build --no-deps symlink_data
+[1.424s] running develop
+[1.672s] running egg_info
+[1.672s] writing rtk_to_local.egg-info/PKG-INFO
+[1.672s] writing dependency_links to rtk_to_local.egg-info/dependency_links.txt
+[1.673s] writing entry points to rtk_to_local.egg-info/entry_points.txt
+[1.673s] writing requirements to rtk_to_local.egg-info/requires.txt
+[1.674s] writing top-level names to rtk_to_local.egg-info/top_level.txt
+[1.720s] reading manifest file 'rtk_to_local.egg-info/SOURCES.txt'
+[1.722s] writing manifest file 'rtk_to_local.egg-info/SOURCES.txt'
+[1.766s] running build_ext
+[1.767s] Creating /home/ljk/YDS_ws/install/rtk_to_local/lib/python3.8/site-packages/rtk-to-local.egg-link (link to .)
+[1.768s] Installing rtk_reader script to /home/ljk/YDS_ws/install/rtk_to_local/lib/rtk_to_local
+[1.769s] 
+[1.769s] Installed /home/ljk/YDS_ws/build/rtk_to_local
+[1.769s] running symlink_data
+[1.800s] Invoked command in '/home/ljk/YDS_ws/build/rtk_to_local' returned '0': CONDA_PROMPT_MODIFIER=(base) PYTHONPATH=/home/ljk/YDS_ws/build/rtk_to_local/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ljk/YDS_ws/install/rtk_to_local/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/ljk/YDS_ws/build/rtk_to_local/build --no-deps symlink_data

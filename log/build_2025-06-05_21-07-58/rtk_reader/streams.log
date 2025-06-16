@@ -1,0 +1,25 @@
+[1.218s] Invoking command in '/home/ljk/YDS_ws/build/rtk_reader': CONDA_PROMPT_MODIFIER=(base) PYTHONPATH=/home/ljk/YDS_ws/build/rtk_reader/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ljk/YDS_ws/install/rtk_reader/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/ljk/YDS_ws/build/rtk_reader/build --no-deps symlink_data
+[1.836s] running develop
+[2.150s] running egg_info
+[2.150s] creating rtk_reader.egg-info
+[2.150s] writing rtk_reader.egg-info/PKG-INFO
+[2.150s] writing dependency_links to rtk_reader.egg-info/dependency_links.txt
+[2.150s] writing entry points to rtk_reader.egg-info/entry_points.txt
+[2.150s] writing requirements to rtk_reader.egg-info/requires.txt
+[2.150s] writing top-level names to rtk_reader.egg-info/top_level.txt
+[2.155s] writing manifest file 'rtk_reader.egg-info/SOURCES.txt'
+[2.221s] reading manifest file 'rtk_reader.egg-info/SOURCES.txt'
+[2.226s] writing manifest file 'rtk_reader.egg-info/SOURCES.txt'
+[2.292s] running build_ext
+[2.293s] Creating /home/ljk/YDS_ws/install/rtk_reader/lib/python3.8/site-packages/site.py
+[2.295s] Creating /home/ljk/YDS_ws/install/rtk_reader/lib/python3.8/site-packages/rtk-reader.egg-link (link to .)
+[2.298s] Installing rtk_reader script to /home/ljk/YDS_ws/install/rtk_reader/lib/rtk_reader
+[2.299s] 
+[2.299s] Installed /home/ljk/YDS_ws/build/rtk_reader
+[2.299s] running symlink_data
+[2.299s] creating /home/ljk/YDS_ws/install/rtk_reader/share/ament_index
+[2.300s] creating /home/ljk/YDS_ws/install/rtk_reader/share/ament_index/resource_index
+[2.300s] creating /home/ljk/YDS_ws/install/rtk_reader/share/ament_index/resource_index/packages
+[2.300s] symbolically linking /home/ljk/YDS_ws/build/rtk_reader/resource/rtk_reader -> /home/ljk/YDS_ws/install/rtk_reader/share/ament_index/resource_index/packages
+[2.301s] symbolically linking /home/ljk/YDS_ws/build/rtk_reader/package.xml -> /home/ljk/YDS_ws/install/rtk_reader/share/rtk_reader
+[2.375s] Invoked command in '/home/ljk/YDS_ws/build/rtk_reader' returned '0': CONDA_PROMPT_MODIFIER=(base) PYTHONPATH=/home/ljk/YDS_ws/build/rtk_reader/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ljk/YDS_ws/install/rtk_reader/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/ljk/YDS_ws/build/rtk_reader/build --no-deps symlink_data

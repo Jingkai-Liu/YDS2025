@@ -1,0 +1,17 @@
+[0.811s] Invoking command in '/home/ljk/YDS_ws/build/velodyne_preprocess': CONDA_PROMPT_MODIFIER=(base) PYTHONPATH=/home/ljk/YDS_ws/build/velodyne_preprocess/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ljk/YDS_ws/install/velodyne_preprocess/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/ljk/YDS_ws/build/velodyne_preprocess/build --no-deps symlink_data
+[1.077s] running develop
+[1.269s] running egg_info
+[1.269s] writing velodyne_preprocess.egg-info/PKG-INFO
+[1.269s] writing dependency_links to velodyne_preprocess.egg-info/dependency_links.txt
+[1.269s] writing entry points to velodyne_preprocess.egg-info/entry_points.txt
+[1.270s] writing requirements to velodyne_preprocess.egg-info/requires.txt
+[1.270s] writing top-level names to velodyne_preprocess.egg-info/top_level.txt
+[1.301s] reading manifest file 'velodyne_preprocess.egg-info/SOURCES.txt'
+[1.302s] writing manifest file 'velodyne_preprocess.egg-info/SOURCES.txt'
+[1.350s] running build_ext
+[1.350s] Creating /home/ljk/YDS_ws/install/velodyne_preprocess/lib/python3.8/site-packages/velodyne-preprocess.egg-link (link to .)
+[1.351s] Installing rtk_reader script to /home/ljk/YDS_ws/install/velodyne_preprocess/lib/velodyne_preprocess
+[1.351s] 
+[1.351s] Installed /home/ljk/YDS_ws/build/velodyne_preprocess
+[1.351s] running symlink_data
+[1.375s] Invoked command in '/home/ljk/YDS_ws/build/velodyne_preprocess' returned '0': CONDA_PROMPT_MODIFIER=(base) PYTHONPATH=/home/ljk/YDS_ws/build/velodyne_preprocess/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ljk/YDS_ws/install/velodyne_preprocess/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/ljk/YDS_ws/build/velodyne_preprocess/build --no-deps symlink_data

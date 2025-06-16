@@ -1,0 +1,25 @@
+[1.432s] Invoking command in '/home/ljk/YDS_ws/build/velodyne_preprocess': CONDA_PROMPT_MODIFIER=(base) PYTHONPATH=/home/ljk/YDS_ws/build/velodyne_preprocess/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ljk/YDS_ws/install/velodyne_preprocess/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/ljk/YDS_ws/build/velodyne_preprocess/build --no-deps symlink_data
+[1.735s] running develop
+[2.179s] running egg_info
+[2.179s] creating velodyne_preprocess.egg-info
+[2.181s] writing velodyne_preprocess.egg-info/PKG-INFO
+[2.184s] writing dependency_links to velodyne_preprocess.egg-info/dependency_links.txt
+[2.184s] writing entry points to velodyne_preprocess.egg-info/entry_points.txt
+[2.184s] writing requirements to velodyne_preprocess.egg-info/requires.txt
+[2.184s] writing top-level names to velodyne_preprocess.egg-info/top_level.txt
+[2.185s] writing manifest file 'velodyne_preprocess.egg-info/SOURCES.txt'
+[2.245s] reading manifest file 'velodyne_preprocess.egg-info/SOURCES.txt'
+[2.246s] writing manifest file 'velodyne_preprocess.egg-info/SOURCES.txt'
+[2.313s] running build_ext
+[2.313s] Creating /home/ljk/YDS_ws/install/velodyne_preprocess/lib/python3.8/site-packages/site.py
+[2.320s] Creating /home/ljk/YDS_ws/install/velodyne_preprocess/lib/python3.8/site-packages/velodyne-preprocess.egg-link (link to .)
+[2.321s] Installing rtk_reader script to /home/ljk/YDS_ws/install/velodyne_preprocess/lib/velodyne_preprocess
+[2.321s] 
+[2.321s] Installed /home/ljk/YDS_ws/build/velodyne_preprocess
+[2.321s] running symlink_data
+[2.321s] creating /home/ljk/YDS_ws/install/velodyne_preprocess/share/ament_index
+[2.322s] creating /home/ljk/YDS_ws/install/velodyne_preprocess/share/ament_index/resource_index
+[2.322s] creating /home/ljk/YDS_ws/install/velodyne_preprocess/share/ament_index/resource_index/packages
+[2.322s] symbolically linking /home/ljk/YDS_ws/build/velodyne_preprocess/resource/velodyne_preprocess -> /home/ljk/YDS_ws/install/velodyne_preprocess/share/ament_index/resource_index/packages
+[2.322s] symbolically linking /home/ljk/YDS_ws/build/velodyne_preprocess/package.xml -> /home/ljk/YDS_ws/install/velodyne_preprocess/share/velodyne_preprocess
+[2.355s] Invoked command in '/home/ljk/YDS_ws/build/velodyne_preprocess' returned '0': CONDA_PROMPT_MODIFIER=(base) PYTHONPATH=/home/ljk/YDS_ws/build/velodyne_preprocess/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ljk/YDS_ws/install/velodyne_preprocess/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/ljk/YDS_ws/build/velodyne_preprocess/build --no-deps symlink_data

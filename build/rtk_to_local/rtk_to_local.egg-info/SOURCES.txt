@@ -1,0 +1,12 @@
+package.xml
+setup.cfg
+setup.py
+resource/rtk_to_local
+rtk_to_local/__init__.py
+rtk_to_local.egg-info/PKG-INFO
+rtk_to_local.egg-info/SOURCES.txt
+rtk_to_local.egg-info/dependency_links.txt
+rtk_to_local.egg-info/entry_points.txt
+rtk_to_local.egg-info/requires.txt
+rtk_to_local.egg-info/top_level.txt
+rtk_to_local.egg-info/zip-safe

@@ -1,0 +1,15 @@
+running develop
+running egg_info
+writing track_error_calc.egg-info/PKG-INFO
+writing dependency_links to track_error_calc.egg-info/dependency_links.txt
+writing entry points to track_error_calc.egg-info/entry_points.txt
+writing requirements to track_error_calc.egg-info/requires.txt
+writing top-level names to track_error_calc.egg-info/top_level.txt
+reading manifest file 'track_error_calc.egg-info/SOURCES.txt'
+writing manifest file 'track_error_calc.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/ljk/YDS_ws/install/track_error_calc/lib/python3.8/site-packages/track-error-calc.egg-link (link to .)
+Installing rtk_reader script to /home/ljk/YDS_ws/install/track_error_calc/lib/track_error_calc
+
+Installed /home/ljk/YDS_ws/build/track_error_calc
+running symlink_data
