@@ -4,6 +4,3 @@ source;share/track_error_calc/hook/pythonpath.sh
 source;share/track_error_calc/hook/ament_prefix_path.ps1
 source;share/track_error_calc/hook/ament_prefix_path.dsv
 source;share/track_error_calc/hook/ament_prefix_path.sh
-source;../../build/track_error_calc/share/track_error_calc/hook/pythonpath_develop.ps1
-source;../../build/track_error_calc/share/track_error_calc/hook/pythonpath_develop.dsv
-source;../../build/track_error_calc/share/track_error_calc/hook/pythonpath_develop.sh

@@ -1,1 +1,0 @@
-/home/ljk/YDS_ws/src/rtk_to_local/setup.py
